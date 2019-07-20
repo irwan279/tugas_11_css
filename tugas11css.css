@@ -1,0 +1,27 @@
+
+
+p, .content {
+  margin-left: 10px;
+  margin-right: 10px;
+  column-width: 280px;
+  text-align: justify;
+  column-rule: 2px solid black;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  height: 30px;
+}
+.menu {
+  margin-left: 15px;
+  color: white;
+  text-decoration: none;
+  background-color: black;
+
+}
